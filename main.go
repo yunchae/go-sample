@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/yunchae/go-sample/factorial"
+	Fac "github.com/yunchae/go-sample/src/factorial"
 )
 
 func main() {
